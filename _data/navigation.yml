@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "JFrog.com"
+    url: https://jfrog.com/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
