@@ -59,7 +59,8 @@ plugins:
 
 author:
   name   : "HelmCenter"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "HelmCenter is a free central repository where you can install and deploy any helm chart while being part of a community of Helm developers!
+Visit our official website: helmcenter.io"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
